@@ -10,7 +10,7 @@ A modern news magazine web application built with **React, Vite, Bootstrap**, an
 - **Responsive Design:** Built with Bootstrap for mobile-friendly UI.
 - **Fallback Image Handling:** Displays a default image when no image is available.
 - **Dynamic Categories:** Clickable navbar for different news categories.
-- **Deployed on Vercel/Netlify** for fast and free hosting.
+- **Deployed on Vercel** for fast and free hosting.
 
 ---
 
@@ -19,7 +19,7 @@ A modern news magazine web application built with **React, Vite, Bootstrap**, an
 - **Styling:** Bootstrap 5
 - **Internationalization:** react-i18next, i18next
 - **API:** GNews API
-- **Deployment:** Vercel / Netlify
+- **Deployment:** Vercel
 
 ## Live Demo
 [View Live Demo](https://news-magazine-4zw2ogoir-priyankas-projects-5a9bd4df.vercel.app)
