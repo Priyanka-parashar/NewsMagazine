@@ -4,12 +4,6 @@ A modern news magazine web application built with **React, Vite, Bootstrap**, an
 
 ---
 
-<!-- ## Live Demo & Repository
-- **Live Demo:** [https://yourproject.vercel.app](https://yourproject.vercel.app)  
-- **GitHub Repo:** [https://github.com/yourusername/news-magazine](https://github.com/yourusername/news-magazine) -->
-
----
-
 ## Features
 - **Real-time News:** Fetches top headlines by category (Technology, Sports, Business, etc.).
 - **Multilingual Support:** Switch between English and Hindi using `react-i18next`.
@@ -27,10 +21,13 @@ A modern news magazine web application built with **React, Vite, Bootstrap**, an
 - **API:** GNews API
 - **Deployment:** Vercel / Netlify
 
+## Live Demo
+[View Live Demo](https://news-magazine-4zw2ogoir-priyankas-projects-5a9bd4df.vercel.app)
+
 ## Screenshots
 
 ### Home Page (English)
-![Home Page](screenshots/home-en.png)
+![Home Page](src/assets/homepage-en.png)
 
 ### Home Page (Hindi)
-![Home Page Hindi](screenshots/home-hi.png)
+![Home Page Hindi](src/assets/homepage-hi.png)
