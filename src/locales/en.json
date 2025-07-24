@@ -1,0 +1,16 @@
+{
+  "news_magazine": "News Magazine",
+  "technology": "Technology",
+  "business": "Business",
+  "health": "Health",
+  "science": "Science",
+  "sports": "Sports",
+  "entertainment": "Entertainment",
+  "latest": "Latest",
+  "news": "News",
+  "no_news": "No news available",
+  "breaking_news": "Breaking News",
+  "loading": "Loading...",
+  "default_description": "Updates: What is going on today, Check out here.",
+  "read_more": "Read More"
+}

@@ -1,0 +1,16 @@
+{
+  "news_magazine": "न्यूज़ मैगज़ीन",
+  "technology": "प्रौद्योगिकी",
+  "business": "व्यापार",
+  "health": "स्वास्थ्य",
+  "science": "विज्ञान",
+  "sports": "खेल",
+  "entertainment": "मनोरंजन",
+  "latest": "ताज़ा",
+  "news": "समाचार",
+  "no_news": "कोई समाचार उपलब्ध नहीं",
+  "breaking_news": "ताज़ा खबर",
+  "loading": "लोड हो रहा है...",
+  "default_description": "अपडेट्स: आज क्या हो रहा है, यहां देखें।",
+  "read_more": "और पढ़ें"
+}
